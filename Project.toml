@@ -1,0 +1,4 @@
+name = "IntroToJulia"
+uuid = "c3bb72d9-dca7-4236-954b-c7706b550209"
+authors = ["Matt Helm <mthelm85@gmail.com>"]
+version = "0.1.0"
